@@ -25,5 +25,6 @@ print(f"El precio habitual de una barra de pan es de: {PAN_FRESCO}, El descuento
 Entendí que el descuento es el dinero que se LE QUITA al precio original.
 Si el descuento es del 60%, el precio final es el 40%.
 También aprendí que si cambio el nombre de una variable arriba, debo
-cambiarlo en todos los lugares donde la use (como en el print).
+cambiarlo en todos los lugares donde la use (como en el print). Este es mi ultimo
+ejercicio de tipos, seguimos con cadenas.
 """
