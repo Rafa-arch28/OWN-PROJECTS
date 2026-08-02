@@ -11,3 +11,12 @@
 # Ignorar archivos temporales del sistema
 desktop.ini
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Datos locales (no subir los datos generados por el programa)
+clinica.json
